@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="certificates/MRM_Logo.png" alt="Mars Rover Manipal Team Logo" width="20%"/>
+    <img src="Certificates/MRM_Logo.png" alt="Mars Rover Manipal Team Logo" width="20%"/>
 </p>
 
 # 🚀 Mars Rover Manipal (MRM)
