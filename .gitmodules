@@ -1,0 +1,12 @@
+[submodule "RoverCodes"]
+	path = RoverCodes
+	url = https://github.com/Aarish-Patel/RoverCodes.git
+	branch = main
+[submodule "Rover_PCBs"]
+	path = Rover_PCBs
+	url = https://github.com/Aarish-Patel/Rover_PCBs.git
+	branch = main
+[submodule "mrm-ecs-tasks"]
+	path = mrm-ecs-tasks
+	url = https://github.com/Aarish-Patel/mrm-ecs-tasks.git
+	branch = main
