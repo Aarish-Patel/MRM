@@ -26,23 +26,12 @@ As a core member of the Electronics and Control Systems team, my work spanned ha
 
 ### Embedded Systems & Software Interfacing
 * **Sensor Interfacing:** Developed **ESP32** firmware to interface various sensor modules for data acquisition, telemetry, and real-time control, ensuring reliable data communication across the system.
+* **Embedded Control Design:** Engineered **real-time (RTOS)** embedded firmware to manage and automate rover operations, including the Robotic Arm and Drive System.
+* **Robotic Arm Automation:** Developed an **Embedded C** application to interface with MoveIt2, translating planned paths into precise robotic arm motion using PID feedback control.
 * **Drone Automation Script:** Developed a **MATLAB** script for drone flight control and automation, interfacing with a Python-based image detection library for object identification and autonomous navigation.
 
 ### System Integration & Collaboration
 * Collaborated closely with the Mechanical, Software, and AI teams to ensure seamless electrical and communication integration across all rover subsystems.
-
----
-
-## 📂 Repository Structure
-
-This repository is organized for clarity, allowing easy navigation for reviewers:
-
-| Folder | Description |
-| :--- | :--- |
-| **pcb-projects** | Complete PCB design files (schematics, layouts, Gerber files) for custom boards. |
-| **microcontroller-projects** | Embedded C++/Arduino/MicroPython code for ESP32 and other microcontrollers. |
-| **certificates** | Official team certificates and team branding assets. |
-
 ---
 
 ## 🏆 Achievements and Verification
@@ -51,6 +40,6 @@ The following images confirm my involvement and the team's competitive standing:
 
 | International Rover Challenge (IRC) Certificate | European Rover Challenge (ERC) Certificate |
 | :---: | :---: |
-| <img src="certificates/IRC_Certificate.png" alt="IRC 1st Place Certificate" width="120%"/> | <img src="certificates/ERC_Certificate.jpg" alt="ERC 10th Place Certificate" width="100%"/> |
+| <img src="Certificates/IRC_Certificate.png" alt="IRC 1st Place Certificate" width="120%"/> | <img src="Certificates/ERC_Certificate.jpg" alt="ERC 10th Place Certificate" width="100%"/> |
 
 ***
